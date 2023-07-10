@@ -1,14 +1,19 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Form from "react-bootstrap/Form";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import {data} from "../helpers/data";
 
 const ContainerCard = () => {
-  const [search, setSearch]
+  const [search, setSearch]=useState("")
+  
   const handleChange= (e)=>{
     setSearch(e.target.value)
   }
+  const filteredData= data.filter(item=> item.name.toLowerCase().includes(search.trim().toLowerCase()))
+  
+  
   return (
     <>
       <Form.Control type="search" placeholder="Search Player..." onChange={handleChange}/>
