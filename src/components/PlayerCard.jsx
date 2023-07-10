@@ -4,7 +4,7 @@ import Card from "react-bootstrap/Card";
 
 const PlayerCard = ({ name, img, statistics }) => {
   const [showImage, setShowImage] = useState(true);
-  // && || ?:
+
   return (
     <Col>
       <Card onClick={()=>setShowImage(!showImage)} className="player-card" role="button">
@@ -12,10 +12,13 @@ const PlayerCard = ({ name, img, statistics }) => {
           <Card.Img
             variant="top"
             src={img}
-            height="350px"  
+            height="350px"
+          
           />
         ) : (
           <ul 
+          className="m-auto"
+        
           >
             {statistics.map((item, i) => (
               <li className="list-unstyled h5 text-start" key={i}>
