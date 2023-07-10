@@ -5,9 +5,13 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
 const ContainerCard = () => {
+  const [search, setSearch]
+  const handleChange= (e)=>{
+    setSearch(e.target.value)
+  }
   return (
     <>
-      <Form.Control type="search" placeholder="Search Player..." />
+      <Form.Control type="search" placeholder="Search Player..." onChange={handleChange}/>
       <Container className='p-3 rounded-4 card-container my-3'>
         <Row xs={2} md={4} lg={6} className='justify-content-center g-3 '>
           <Col>1 of 2</Col>
