@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color:#f4d467;
+  /* background-color:#BF0436; */
+  background-image: url(./assets/nba.jpg);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
