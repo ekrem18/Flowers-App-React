@@ -23,7 +23,7 @@ body {
   overflow: hidden;
   
   & img {
-    filter:blur(3px);
+    /* filter:blur(3px); */
     transition: transform 0.3s;
     object-fit: cover;
   }
