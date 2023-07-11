@@ -5,13 +5,14 @@
 }
 
 body {
-  /* background-color:#BF0436; */
+  
   background-image: url(./assets/nba.jpg);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card-container {
-  background-image: url("./assets/nba.jpg");
+  /* background-image: url("./assets/flowers.jpg"); */
+  background-color:#BF0436;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   min-height: 400px;
