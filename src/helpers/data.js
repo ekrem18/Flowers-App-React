@@ -1,122 +1,65 @@
 export const data = [
   {
-    name: "Kareem Abdul-Jabbar",
-    img: "https://s22928.pcdn.co/wp-content/uploads/2018/03/Kareem-Abdul-Jabbar.jpg",
+    name: "Rose",
+    img: "https://media.istockphoto.com/id/1295618188/photo/red-rose-flowers-with-clipping-path.jpg?s=612x612&w=0&k=20&c=QYTWKKNnhd5Uo2eoZiZ48L32UCC5FXQVHHw31c43Qso=",
     statistics: [
-      "38,387 points",
-      "17,440 rebaunds",
-      "5,660 assist",
-      "19 All Star",
+      "The leaves are borne alternately on the stem. In most species they are 5 to 15 centimetres long.",
     ],
   },
   {
-    name: "Larry Bird",
-    img: "https://images.footballfanatics.com/boston-celtics/larry-bird-boston-celtics-unsigned-driving-to-the-basket-photograph_pi4025000_ff_4025713-3a32778de9bb567994e1_full.jpg?_hv=2&w=900",
-    statistics: [
-      "21,791 points",
-      "8,974 rebaunds",
-      "5,695 assist",
-      "12 All Star",
+    name: "Tulip",
+    img: "https://media.istockphoto.com/id/967980182/photo/tulips.jpg?s=612x612&w=0&k=20&c=Y9b1XEFQvsRxYPrr4kjGdYireHsWQHugfW2lOd5mrl4=",
+    statistics: ["Tulips (Tulipa) are a genus of spring-blooming perennial herbaceous bulbiferous geophytes (having bulbs as storage organs)."
+      
     ],
   },
   {
-    name: "Wilt Chamberlain",
-    img: "https://pbs.twimg.com/media/EQwzU_RXUAAAATG?format=jpg&name=4096x4096",
+    name: "Dianthus Caryophyllus",
+    img: "https://media.istockphoto.com/id/1097416930/photo/red-carnation.jpg?s=612x612&w=0&k=20&c=7Do8D3awfhmAALD2chIzZc088H3lOmrPgmf2gX-XKII=",
     statistics: [
-      "31,419 points",
-      "23,924 rebaunds",
-      "4,643 assist",
-      "13 All Star",
+      "Dianthus caryophyllus is a herbaceous perennial plant growing up to 80 cm tall. The leaves are glaucous greyish green to blue-green, slender, up to 15 cm  long.",
+      
     ],
   },
   {
-    name: "Magic Johnson",
-    img: "https://cdn.britannica.com/27/189527-050-5BAD12C2/Magic-Johnson.jpg",
+    name: "Lily",
+    img: "https://media.istockphoto.com/id/1032618286/photo/beautiful-yellow-lily-on-a-white-background-isolated-on-white-background-a-lily-flower-with-a.jpg?s=612x612&w=0&k=20&c=ZbCqj0Bvl3AasjOkZTa6ueD9YNsx8Gc-cPRdig4O0cY=",
     statistics: [
-      "17,707 points",
-      "6,559 rebaunds",
-      "10,141 assist",
-      "12 All Star",
+      "The lily family, Liliaceae, consists of about 15 genera and 610 species of flowering plants within the order Liliales.[2] They are monocotyledonous, perennial, herbaceous, often bulbous geophytes. ",
+  
     ],
   },
   {
-    name: "Michael Jordan",
-    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
+    name: "Chrysanthemum",
+    img: "https://media.istockphoto.com/id/989979132/photo/red-chrysanthemum-flower-head.jpg?s=612x612&w=0&k=20&c=LBEqCaFL3kOcelNrfUgNN04rryk2WhJFkpg8rUz70nY=",
     statistics: [
-      "32,292 points",
-      "6,672 rebaunds",
-      "5,633 assist",
-      "14 All Star",
+      "The genus Chrysanthemum are perennial herbaceous flowering plants, sometimes subshrubs. The leaves are alternate, divided into leaflets and may be pinnatisect, lobed, or serrate (toothed) but rarely entire; they are connected to stalks with hairy bases.",
+    
     ],
   },
   {
-    name: "Karl Malone",
-    img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
+    name: "Daffodil",
+    img: "https://media.istockphoto.com/id/174623304/photo/daffodils.jpg?s=170667a&w=0&k=20&c=-v0QZoZAQ75ZORFf2aclEb3JnTrUhLaLCHUIONaA1fQ=",
     statistics: [
-      "36,928 points",
-      "14,968 rebaunds",
-      "5,248 assist",
-      "14 All Star",
+      "Narcissus is a genus of predominantly spring flowering perennial plants of the amaryllis family, Amaryllidaceae. Various common names including daffodil,[Note 1] narcissus and jonquil, are used to describe all or some members of the genus. ",
+    
     ],
   },
   {
-    name: "Hakeem Olajuwon",
-    img: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/1000x1000/hakeem-olajuwon-von-den-houston-rockets.jpg",
+    name: "Hyacinth",
+    img: "https://media.istockphoto.com/id/498883389/vector/beautiful-purple-hyacinth-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=vWXSSGsaYsyNJ-BXBk8TrF5jwPERp2gSehVRO9kpN-E=",
     statistics: [
-      "26,946 points",
-      "13,748 rebaunds",
-      "3,058 assist",
-      "12 All Star",
+      "Hyacinthus is a small genus of bulbous, spring-blooming perennials. They are fragrant flowering plants in the family Asparagaceae, subfamily Scilloideae and are commonly called hyacinths. ",
+      
     ],
   },
   {
-    name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
+    name: "Lotus",
+    img: "https://media.istockphoto.com/id/1023140808/photo/beautiful-white-lotus-flower-with-green-leaf-in-in-pond.jpg?s=612x612&w=0&k=20&c=bhSeZt2g4-ytVmJeoa3S9sqk95QKN0TWHYW1fo0bN34=",
     statistics: [
-      "28,596 points",
-      "13,099 rebaunds",
-      "3,026 assist",
-      "15 All Star",
+      "Nelumbo nucifera, also known as sacred lotus, Laxmi lotus, Indian lotus,[1] or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae. It is sometimes colloquially called a water lily, though this more often refers to members of the family Nymphaeaceae.",
+     
     ],
   },
-  {
-    name: "Scottie Pippen",
-    img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
-    statistics: [
-      "18,940 points",
-      "7,494 rebaunds",
-      "6,135 assist",
-      "7 All Star",
-    ],
-  },
-  {
-    name: "Patrick Ewing",
-    img: "https://cdn.britannica.com/37/231237-050-0CB78D66/Patrick-Ewing-New-York-Knicks-1986.jpg",
-    statistics: [
-      "24,815 points",
-      "11,607 rebaunds",
-      "2,215 assist",
-      "11 All Star",
-    ],
-  },
-  {
-    name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
-    statistics: [
-      "33,643 points",
-      "7,047 rebaunds",
-      "6,306 assist",
-      "18 All Star",
-    ],
-  },
-  {
-    name: "Charles Barkley",
-    img: "https://freshairarchive.org/sites/default/files/styles/square_800/public/2021-08/CharlesBarkley.jpg?itok=lkOGUQ2t",
-    statistics: [
-      "23,757 points",
-      "12,546 rebaunds",
-      "4,215 assist",
-      "11 All Star",
-    ],
-  },
+  
 ];

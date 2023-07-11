@@ -5,8 +5,8 @@ import logo from "../assets/nba-logo.png"
 const Header = () => {
   return (
     <Container> 
-        <Image src={logo} width="200px"/>
-        <h1 className="my-2 ">NBA LEGENDS</h1>
+        <Image src={logo} width="750px"/>
+        <h1 className="my-2 ">I made the above logo using Ai ;)</h1>
     </Container>
   )
 }
